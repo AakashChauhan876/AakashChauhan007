@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an **IT student** passionate about technology,
 ## 📈 GitHub Stats  
 
 ![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakashChauhan876&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashChauhan876&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashChauhan876&hide=c&layout=compact&theme=radical)
 
 ---
 
